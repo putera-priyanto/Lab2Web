@@ -40,3 +40,9 @@ Screen Shoot beserta Penjelasan :
 ![lab2_tag_dasar html - Visual Studio Code 4_5_2021 8_55_40 PM](https://user-images.githubusercontent.com/81774141/113581762-c5cd1000-9651-11eb-8e3f-15447d101d5f.png)
 
 ![CSS Dasar - Google Chrome 4_5_2021 9_19_27 PM](https://user-images.githubusercontent.com/81774141/113586611-eb5d1800-9657-11eb-9eb5-ec9786d01084.png)
+
+>Kemudian menggunakan tag link untuk merujuk ke file css khusus
+
+![lab2_tag_dasar html - Visual Studio Code 4_5_2021 8_55_40 PM](https://user-images.githubusercontent.com/81774141/113587768-75f24700-9659-11eb-9d4c-e73446c5f143.png)
+
+![● style_eksternal css - Visual Studio Code 4_5_2021 9_57_55 PM](https://user-images.githubusercontent.com/81774141/113588268-21030080-965a-11eb-8fdd-8e61b338144b.png)
