@@ -39,3 +39,4 @@ Screen Shoot beserta Penjelasan :
 
 ![lab2_tag_dasar html - Visual Studio Code 4_5_2021 8_55_40 PM](https://user-images.githubusercontent.com/81774141/113581762-c5cd1000-9651-11eb-8e3f-15447d101d5f.png)
 
+![CSS Dasar - Google Chrome 4_5_2021 9_19_27 PM](https://user-images.githubusercontent.com/81774141/113586611-eb5d1800-9657-11eb-9eb5-ec9786d01084.png)
