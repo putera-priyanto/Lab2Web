@@ -23,14 +23,18 @@ Laporan Praktikum 2
 
 Screen Shoot beserta Penjelasan :
 
->Pertama membuat HTMLnya. Beserta tampilan pada browser :
+>Pertama membuat HTMLnya. Beserta tampilan pada browser.
 
 ![lab2_tag_dasar html - Visual Studio Code 4_5_2021 8_30_34 PM](https://user-images.githubusercontent.com/81774141/113579002-e1ceb280-964d-11eb-8acd-0d0d452b4457.png)
 
-![lab2_tag_dasar html - Google Chrome 4_5_2021 3_54_16 PM](https://user-images.githubusercontent.com/81774141/113579379-6c171680-964e-11eb-85ad-14b001eb670a.png)
 
->Kemudia deklarasi css internal pada bagian head dokumen
+>Kemudia deklarasi css internal pada bagian head dokumen.
 
 ![lab2_tag_dasar html - Visual Studio Code 4_5_2021 8_30_34 PM](https://user-images.githubusercontent.com/81774141/113579002-e1ceb280-964d-11eb-8acd-0d0d452b4457.png)
 
-![CSS Dasar - Google Chrome 4_5_2021 4_04_10 PM](https://user-images.githubusercontent.com/81774141/113579914-2575ec00-964f-11eb-96aa-a1944cdbb3d8.png)
+
+
+
+>Kemudian deklarasi inline merubah warna text dokumen.
+
+![lab2_tag_dasar html - Visual Studio Code 4_5_2021 8_55_40 PM](https://user-images.githubusercontent.com/81774141/113581762-c5cd1000-9651-11eb-8e3f-15447d101d5f.png)
