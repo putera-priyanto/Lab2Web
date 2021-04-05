@@ -93,4 +93,15 @@ Jawaban :
    
 3. > CSS Internal : adalah kode CSS yang ditulis di dalam tag <style> dan kode HTML dituliskan di bagian atas (header) file index.html, dan perubahan Internal CSS hanya berlaku pada satu halaman saja. Contoh :
 
+![Lab2_test_dasar html - Visual Studio Code 4_6_2021 12_33_16 AM](https://user-images.githubusercontent.com/81774141/113604778-ec01a880-966f-11eb-86b6-05321ac63b87.png)
+
+   > CSS Eksternal : adalah kode CSS yg ditulis terpisah dengan kode html, CSS ditulis pada sebuah file khusus yg berektensi .css. diletakan pada bagian dan di panggil dengan tag . Contoh :
+   
+   ![Lab2_test_dasar html - Visual Studio Code 4_6_2021 12_58_23 AM_LI](https://user-images.githubusercontent.com/81774141/113607645-a0e99480-9673-11eb-994b-136515f1426a.jpg)
+   
+   > Inline CSS : adalah kode CSS yang ditulis langsung pada atribut elemen HTML. Setiap elemen HTML memiliki atribut style, di situ lah inline CSS ditulis. Contoh :
+   
+   ![● lab2_tag_dasar html - Visual Studio Code 4_5_2021 4_09_06 PM_LI](https://user-images.githubusercontent.com/81774141/113607937-0c336680-9674-11eb-80d0-44fcee8372b9.jpg)
+   
+
 
