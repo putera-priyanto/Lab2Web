@@ -1,3 +1,4 @@
+![lab2_tag_dasar html - Google Chrome 4_5_2021 3_54_16 PM](https://user-images.githubusercontent.com/81774141/113579249-37a35a80-964e-11eb-9404-54ba7675e127.png)
 Nama : Muhammad Putera Priyanto
 
 Kelas : TI.19.B1
