@@ -27,3 +27,6 @@ Pertama membuat HTMLnya. Beserta tampilan pada browser :
 
 ![lab2_tag_dasar html - Visual Studio Code 4_5_2021 8_30_34 PM](https://user-images.githubusercontent.com/81774141/113579002-e1ceb280-964d-11eb-8acd-0d0d452b4457.png)
 
+![lab2_tag_dasar html - Google Chrome 4_5_2021 3_54_16 PM](https://user-images.githubusercontent.com/81774141/113579379-6c171680-964e-11eb-85ad-14b001eb670a.png)
+
+Kemudia deklarasi css internal pada bagian head dokumen
