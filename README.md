@@ -46,3 +46,5 @@ Screen Shoot beserta Penjelasan :
 ![lab2_tag_dasar html - Visual Studio Code 4_5_2021 8_55_40 PM](https://user-images.githubusercontent.com/81774141/113587768-75f24700-9659-11eb-9d4c-e73446c5f143.png)
 
 ![● style_eksternal css - Visual Studio Code 4_5_2021 9_57_55 PM](https://user-images.githubusercontent.com/81774141/113588268-21030080-965a-11eb-8fdd-8e61b338144b.png)
+
+![CSS Dasar - Google Chrome 4_5_2021 10_00_00 PM](https://user-images.githubusercontent.com/81774141/113588775-c5854280-965a-11eb-8517-ad339d7794e5.png)
