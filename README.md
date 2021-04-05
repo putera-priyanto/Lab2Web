@@ -103,5 +103,12 @@ Jawaban :
    
    ![● lab2_tag_dasar html - Visual Studio Code 4_5_2021 4_09_06 PM_LI](https://user-images.githubusercontent.com/81774141/113607937-0c336680-9674-11eb-80d0-44fcee8372b9.jpg)
    
+kesimpulannya adalah jadi dari deklarasi dia atas tersebut jika di gabung ditampilkan pada browser akan normal asalkan penggunaanya secara benar dan tidak ada yg error pada saat coding, dan 1 hal di dalam 3 metode css di atas ada perbedaannya dan tergantung developer 1 elemen hanya bisa 1 selector pemanggilan dalam CSS, kecuali elemen tersebut menggunakan ID atau CLASS agar bisa penggunaan deklarasi secara ulang. 4. contoh ketika elemen terdapat ID dan Class dan masing-masing selector terdapat deklarasi.
+
+Maka hasil pada browser
+
+![CSS Dasar - Google Chrome 4_5_2021 9_56_53 PM](https://user-images.githubusercontent.com/81774141/113608256-84019100-9674-11eb-9ad8-8c05dd35016e.png)
+
+penjelasaanya adalah ketika di klik button(informasi selengkapnya) maka akan muncul halaman yg sama kecuali alamat pada href diganti ke alamat lain.
 
 
