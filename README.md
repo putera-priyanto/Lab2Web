@@ -87,3 +87,10 @@ Jawaban :
 
 ![CSS Dasar - Google Chrome 4_6_2021 12_32_21 AM](https://user-images.githubusercontent.com/81774141/113605212-8b26a000-9670-11eb-81d4-803cca1ad50d.png)
 
+2. > perbedaan dari H1 adalah penggunaan langsung pada css tanpa tanda(#) dan titik(.) karena h1 tersebut tidak memiliki id ataupun class
+
+   > sedangkan H1 intro memiliki id maka penggunaan pada css dengan pagar (#) , dan di dalam file index.html dalam pemanggilan nya menggunakan id=" ".
+   
+3. > CSS Internal : adalah kode CSS yang ditulis di dalam tag <style> dan kode HTML dituliskan di bagian atas (header) file index.html, dan perubahan Internal CSS hanya berlaku pada satu halaman saja. Contoh :
+
+
