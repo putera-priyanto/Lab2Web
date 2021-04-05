@@ -79,4 +79,11 @@ Jawaban :
 
 ![Lab2_test_dasar html - Visual Studio Code 4_6_2021 12_33_16 AM](https://user-images.githubusercontent.com/81774141/113604778-ec01a880-966f-11eb-86b6-05321ac63b87.png)
 
+![Lab2_test_dasar html - Visual Studio Code 4_6_2021 12_33_24 AM](https://user-images.githubusercontent.com/81774141/113604985-3c790600-9670-11eb-937f-0f2dbdd038f9.png)
+
+![Lab2_test_dasar html - Visual Studio Code 4_6_2021 12_33_34 AM](https://user-images.githubusercontent.com/81774141/113605018-48fd5e80-9670-11eb-921f-a06ff7bd1d5d.png)
+
+![Lab2_test_dasar html - Visual Studio Code 4_6_2021 12_33_44 AM](https://user-images.githubusercontent.com/81774141/113605045-54e92080-9670-11eb-8acd-2f7c99dec9dd.png)
+
+![CSS Dasar - Google Chrome 4_6_2021 12_32_21 AM](https://user-images.githubusercontent.com/81774141/113605212-8b26a000-9670-11eb-81d4-803cca1ad50d.png)
 
