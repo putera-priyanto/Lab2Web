@@ -48,3 +48,9 @@ Screen Shoot beserta Penjelasan :
 ![● style_eksternal css - Visual Studio Code 4_5_2021 9_57_55 PM](https://user-images.githubusercontent.com/81774141/113588268-21030080-965a-11eb-8fdd-8e61b338144b.png)
 
 ![CSS Dasar - Google Chrome 4_5_2021 10_00_00 PM](https://user-images.githubusercontent.com/81774141/113588775-c5854280-965a-11eb-8517-ad339d7794e5.png)
+
+>Kemudian menambahkan css selector yang menggunakan ID dan class selector untuk memberikan style yang berbeda pada HTML.
+
+![● style_external css - Visual Studio Code 4_5_2021 4_37_36 PM](https://user-images.githubusercontent.com/81774141/113589843-12b5e400-965c-11eb-8f9d-18ba5411f43e.png)
+
+![CSS Dasar - Google Chrome 4_5_2021 9_56_53 PM](https://user-images.githubusercontent.com/81774141/113589931-311bdf80-965c-11eb-884f-45d25247b39c.png)
