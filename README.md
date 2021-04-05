@@ -76,3 +76,7 @@ Jawaban : 1. Pertanyaan dan Tugas :
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( p id="paragraf-1" class="text-paragraf" )
 
 Jawaban :
+
+![Lab2_test_dasar html - Visual Studio Code 4_6_2021 12_33_16 AM](https://user-images.githubusercontent.com/81774141/113604778-ec01a880-966f-11eb-86b6-05321ac63b87.png)
+
+
