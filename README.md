@@ -27,6 +27,7 @@ Screen Shoot beserta Penjelasan :
 
 ![lab2_tag_dasar html - Visual Studio Code 4_5_2021 8_30_34 PM](https://user-images.githubusercontent.com/81774141/113579002-e1ceb280-964d-11eb-8acd-0d0d452b4457.png)
 
+![CSS Dasar - Google Chrome 4_5_2021 9_12_48 PM](https://user-images.githubusercontent.com/81774141/113583396-cbc3f080-9653-11eb-88f0-8e01a3d9c2eb.png)
 
 >Kemudia deklarasi css internal pada bagian head dokumen.
 
